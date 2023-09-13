@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwb3hnNDgyejM0bnZ6bjhuMXloaXZpdmFoMndkeGd4cGJtYjFsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhar2102&label=Profile%20views&color=0e75b6&style=flat" alt="Prakhar2102" /> </p>
-- 🔭 I’m currently working on **Image Generation using Semantic Manipulation**
+- 🔭 I’m currently working on Image Generation using Semantic Manipulation
 
 - 🌱 I’m currently learning **GANs**
 
