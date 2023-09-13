@@ -60,8 +60,8 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2102&" alt="Prakhar2102" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prakhar2102&show_icons=true&locale=en" alt="sarthaksingh007" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakhar2102&show_icons=true&locale=en&layout=compact" alt="Prakhar2102" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prakhar2102&show_icons=true&locale=en" alt="sarthaksingh007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakhar2102&show_icons=true&locale=en&layout=compact" alt="Prakhar2102" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prakhar2102" alt="Prakhar2102" /></a> </p>
 
