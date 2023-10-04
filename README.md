@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **GANs**
 
-- 👯 I have collaborated on [FARMMET](https://github.com/shubham-jhajhria/Team-Kalki_FARM-NET)
+- 👯 I have collaborated on [FARMMET](https://github.com/shubham-jhajhria/Team-Kalki_FARM-NET) and [SLR](https://github.com/shubham-jhajhria/Progothon-Team-Kalki/tree/main)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Prakhar2102)
 
