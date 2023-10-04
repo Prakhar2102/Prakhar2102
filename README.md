@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Prakhar2102)
 
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/prakhar-jaiswal-8a4662235/)
+- 📝 I regularly write on [Linkedin](https://www.linkedin.com/in/prakhar-jaiswal-8a4662235/)
 
 - 💬 Ask me about **Neural Networks/ NLP/ Deep Learning**
 
