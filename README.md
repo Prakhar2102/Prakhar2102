@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Neural Networks/ NLP/ Deep Learning**
 
-- 📫 How to reach me **21229@iiitu.ac.in**
+- 📫 How to reach me **prakhar2111flash@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lvLVuIDg67QWWU-UBu1Milr1Y_xFBKMM/view?usp=sharing)
 
