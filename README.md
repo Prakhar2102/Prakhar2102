@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Android Development Neural Networks/ NLP/ Deep Learning**
 
-- 📫 How to reach me **prakhar2111flash@gmail.com**
+- 📫 How to reach me **itsprakharjaiswal@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1WqpMM8fBpyvdwSh692WEXyHk2M-Q1QJ8/view?usp=sharing)
 
