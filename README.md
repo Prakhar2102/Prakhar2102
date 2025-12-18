@@ -1,45 +1,46 @@
-
-<h1 align="center">Hi 👋, I'm Prakhar Jaiswal</h1>
-<h3 align="center">I'm from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcwb3hnNDgyejM0bnZ6bjhuMXloaXZpdmFoMndkeGd4cGJtYjFsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhar2102&label=Profile%20views&color=0e75b6&style=flat" alt="Prakhar2102" /> </p>
-- 🔭 I’m currently working on LLMs
 
-- 🌱 I’m currently learning **LLM**
+# Hi there, I'm Prakhar Jaiswal 👋
 
-- 👯 I have collaborated on [FARMMET](https://github.com/shubham-jhajhria/IEEE-CIS-AI-ML-Team-Kalki) and [SLR](https://github.com/shubham-jhajhria/Progothon-Team-Kalki)
+[cite_start]I am a **Software Development Engineer** specializing in Android and **Kotlin Multiplatform (KMP)**[cite: 10]. I bridge the gap between robust mobile architecture and advanced Machine Learning to build high-impact, accessible applications.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Prakhar2102)
+### 🔭 Currently Working On
+* [cite_start]**Cross-Platform Development:** Building the Dhyaan App using **Kotlin Multiplatform (KMP)** and **Compose Multiplatform** for Android and iOS[cite: 13].
+* [cite_start]**On-Device AI:** Implementing real-time yoga posture tracking using **MediaPipe** and **TensorFlow Lite**[cite: 14].
+* [cite_start]**Generative AI:** Exploring LLMs, LangChain, and their integration into mobile ecosystems[cite: 38].
 
-- 📝 I regularly write on [Linkedin](https://www.linkedin.com/in/prakhar-jaiswal-8a4662235/)
+### 🛠️ Technical Toolkit
+* [cite_start]**Languages:** Kotlin, Python, C/C++[cite: 31].
+* [cite_start]**Mobile Development:** Jetpack Compose, KMP, CameraX, ExoPlayer[cite: 32].
+* [cite_start]**AI/ML:** TensorFlow Lite, MediaPipe, Natural Language Processing, LangChain[cite: 32, 38].
+* [cite_start]**Backend & Tools:** Firebase (Firestore), Ktor, Git, MVVM Architecture[cite: 33, 34].
 
-- 💬 Ask me about **Neural Networks/ NLP/ Deep Learning**
+### 🏆 Recent Accomplishments
+* [cite_start]**Winner:** Prog-o-thon Hackathon (IIIT Una & Arufa Research)[cite: 40].
+* [cite_start]**7th Position:** MNIT Jaipur IEEE-CIS Hackathon[cite: 40].
+* [cite_start]**Research:** Conducted olfactory domain research at **IIT Mandi**, optimizing DL algorithms for chemical odor profiles[cite: 17, 19, 21].
 
-- 📫 How to reach me **prakhar2111flash@gmail.com**
+### 👨‍💻 Featured Projects
+* [cite_start]**[SignSense](https://github.com/Prakhar2102):** Real-time sign language to text translator using MediaPipe and Random Forest[cite: 26, 28].
+* [cite_start]**[CareaSaathi](https://github.com/Prakhar2102):** Smart health companion for elderly care with Firebase and Jetpack Compose[cite: 23, 24].
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lvLVuIDg67QWWU-UBu1Milr1Y_xFBKMM/view?usp=sharing)
+### 💬 Let's Connect
+* [cite_start]**LinkedIn:** [Prakhar Jaiswal](https://www.linkedin.com/in/prakhar-jaiswal-8a4662235/) [cite: 4]
+* [cite_start]**Email:** [itsprakharjaiswal@gmail.com](mailto:itsprakharjaiswal@gmail.com) [cite: 3]
+* [cite_start]**Portfolio:** [All Projects](https://github.com/Prakhar2102) [cite: 5]
 
-- ⚡ Fun fact **I love spending time with Dogs. 🐶**
+---
 
-<h3 align="left">Connect with me:</h3>
+### Languages and Tools:
 <p align="left">
-<a href="https://www.linkedin.com/in/prakhar-jaiswal-8a4662235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prakhar" height="30" width="40" /></a>
-<a href="https://instagram.com/prakhar2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakhar2111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Prakhar2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prakhar2102" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prakhar2111/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakhar2111" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_mediapipe/google_mediapipe-icon.svg" alt="mediapipe" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prakhar2102&show_icons=true&locale=en" alt="{rakhar2102" /></p>
-
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prakhar2102&show_icons=true&locale=en" alt="Prakhar2102" /></p>
