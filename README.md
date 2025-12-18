@@ -1,9 +1,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prakhar2102&label=Profile%20views&color=0e75b6&style=flat" alt="Prakhar2102" /> </p>
-]**Dhyaan App:** A cross-platform wellness application built using **Kotlin Multiplatform (KMP)** and **Compose Multiplatform**[cite: 13].
-  * 📱 [Download on PlayStore](https://play.google.com/store/apps/details?id=com.epilepto.dhyanapp&hl=en_IN)
-  * 🍎 [Download on AppStore](https://apps.apple.com/in/app/dhyanapp/id6742645008)
-  
+## 🧘 Dhyaan App
+
+**Dhyaan App** is a cross-platform wellness application built using **Kotlin Multiplatform (KMP)** and **Compose Multiplatform**.
+
+### 📲 Download
+- 📱 **Android (Play Store):**  
+  https://play.google.com/store/apps/details?id=com.epilepto.dhyanapp&hl=en_IN
+
+- 🍎 **iOS (App Store):**  
+  https://apps.apple.com/in/app/dhyanapp/id6742645008
+
 - 🌱 I’m currently learning **Compose Multiplatform**
 
 - 👯 I have collaborated on [FARMMET](https://github.com/shubham-jhajhria/IEEE-CIS-AI-ML-Team-Kalki) and [SLR](https://github.com/shubham-jhajhria/Progothon-Team-Kalki)
