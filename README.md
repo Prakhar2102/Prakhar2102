@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **prakhar2111flash@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1lvLVuIDg67QWWU-UBu1Milr1Y_xFBKMM/view?usp=sharing](https://drive.google.com/file/d/1WqpMM8fBpyvdwSh692WEXyHk2M-Q1QJ8/view?usp=sharing))
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1WqpMM8fBpyvdwSh692WEXyHk2M-Q1QJ8/view?usp=sharing)
 
 - ⚡ Fun fact **I love spending time with Dogs. 🐶**
 
